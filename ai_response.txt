@@ -1,0 +1,7 @@
+AI works by **learning from data**. 
+
+1. **Feed it Data:** It looks at massive amounts of information (text, images, or numbers).
+2. **Find Patterns:** It uses algorithms to find connections and rules within that data.
+3. **Make Decisions:** It uses those patterns to predict, solve problems, or create new content. 
+
+In short: **Data in, patterns found, smart predictions out.**
