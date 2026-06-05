@@ -2,7 +2,7 @@ from google import genai
 
 # 1. Client Initialize karein aur apni Free Gemini API key yahan dalein
 client = genai.Client(
-    api_key="AIzaSyBHdRqyXTnLvLet4Xczan1T-S6OGpxj9dU"
+    api_key="..............."
 )
 
 try:
